@@ -1,5 +1,6 @@
-package com.example.Ayushman.Spring.Login.Registration;
+package com.example.Ayushman.Spring.Login.Registration.controller;
 
+import com.example.Ayushman.Spring.Login.Registration.model.Student;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
