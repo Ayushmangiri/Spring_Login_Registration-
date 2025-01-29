@@ -1,4 +1,4 @@
-package com.example.Ayushman.Spring.Login.Registration;
+package com.example.Ayushman.Spring.Login.Registration.model;
 
 public class Student {
     private int id;
